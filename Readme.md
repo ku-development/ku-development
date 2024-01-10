@@ -7,7 +7,7 @@
 
 - 👨‍💻 Small projects available at - [https://github.com/ku-development?tab=repositories](https://github.com/ku-development?tab=repositories)
 
-- 👨‍💼 Currently sold over - **145+ QBCore server files & 310 scripts separately.** Feel free to join the family! <br>
+- 👨‍💼 Currently sold over - **20+ QBCore server files & 310 scripts separately.** Feel free to join the family! <br>
 **My discord is below the description.**</br>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ku-development&theme=onedark&show_icons=true)
