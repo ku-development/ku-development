@@ -1,6 +1,13 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ku-development&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ku-development&theme=dark&layout=compact&langs_count=8&card_width=320" />
-</a>
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://google.com/)
+<h1 align="center">Ayo, I'm Liad 👋</h1>
+<h3 align="center">#Here_To_Enjoy</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ku-development&label=Profile%20views&color=0e75b6&style=flat" alt="ku-development" /> </p>
+
+- 🍒 New Discord Server - https://discord.gg/DxctWaf3n7
+
+- 👨‍💻 Small projects available at - [https://github.com/ku-development?tab=repositories](https://github.com/ku-development?tab=repositories)
+
+- 👨‍💼 Currently sold over - **145+ QBCore server files & 310 scripts separately.** Feel free to join the family! <br>
+**My discord is below the description.**</br>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ku-development&theme=onedark&show_icons=true)
